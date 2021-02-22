@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SubsetSum02",
+            "request": "launch",
+            "mainClass": "SubsetSum02",
+            "projectName": "pattern-knapsack_768add5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNoOfSubsetsWithGivenDifference",
+            "request": "launch",
+            "mainClass": "CountNoOfSubsetsWithGivenDifference",
+            "projectName": "pattern-knapsack_768add5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountOfSubsetSum",
+            "request": "launch",
+            "mainClass": "CountOfSubsetSum",
+            "projectName": "pattern-knapsack_768add5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualSumPartition",
+            "request": "launch",
+            "mainClass": "EqualSumPartition",
+            "projectName": "pattern-knapsack_768add5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Knapsack01",
+            "request": "launch",
+            "mainClass": "Knapsack01",
+            "projectName": "pattern-knapsack_768add5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumSubsetSumDifference",
+            "request": "launch",
+            "mainClass": "MinimumSubsetSumDifference",
+            "projectName": "pattern-knapsack_768add5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsetSum",
+            "request": "launch",
+            "mainClass": "SubsetSum",
+            "projectName": "pattern-knapsack_768add5f"
+        }
+    ]
+}
